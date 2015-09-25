@@ -1,9 +1,0 @@
-{
-  "files": [
-    "app/*.js",
-    "!app/*spec.js"
-  ],
-  "tests": [
-    "app/*spec.js"
-  ]
-}
