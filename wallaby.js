@@ -3,6 +3,7 @@ var babel = require('babel');
 module.exports = function (wallaby) {
     return {
         "files": [
+            "node_modules/lodash/lodash.js",
             "app/*.js",
             "!app/*spec.js"
         ],

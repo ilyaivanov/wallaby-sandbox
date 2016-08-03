@@ -22,5 +22,8 @@
   "homepage": "https://github.com/ilyaivanov/wallaby-sandbox#readme",
   "devDependencies": {
     "babel": "^5.8.23"
+  },
+  "dependencies": {
+    "lodash": "^4.14.1"
   }
 }
